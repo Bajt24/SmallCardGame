@@ -1,0 +1,9 @@
+// Define decks below
+//
+//Players' selected decks are identified like this
+//pl0;0
+//pl1;0
+// the default value is 0
+// cards are identified by indexes and divided by ;
+0;1;2;3;4;5;6;7;8;9
+

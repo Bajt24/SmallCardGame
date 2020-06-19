@@ -1,0 +1,19 @@
+// Define cards below
+//
+// MINION PREFAB: m;name;mana_cost;card_value;attack;health;(effectType,effectParam)
+// SPELL PREFAB:  s;name;mana_cost,card_value;effectType;effectParam
+//
+// Effects : {0 = Damage enemy minions, 1 = Discard cards, 2 = Draw cards, 3 = Gain mana, 4 = Heal your hero}
+//
+//m;Piloted Shredder;4;1;4;3;2;2
+s;Arcane Intellect;3;1;2;2
+m;Hozen Healer;1;1;4;2
+m;Ogre Magi;4;1;4;4
+m;River Crocolisk;2;1;2;3
+m;Wrathguard;2;1;4;3;1;1
+s;Healing touch;2;1;4;6
+m;Spider Tank;3;1;2;2;2;1
+m;Ironbark;8;1;8;8
+m;Crystal Weaver;3;1;3;1;3;1
+m;Demon;5;1;4;5;0;1
+
